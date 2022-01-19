@@ -1,2 +1,2 @@
-# hello-world
-juz another rep.
+# Hello-World
+My Very First Repository!
